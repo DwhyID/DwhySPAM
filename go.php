@@ -16,7 +16,7 @@ class MyCall {
 	function __construct(){
 		self::$agent = "Mozilla/5.0 (Linux; Android 8.1.0; vivo1814) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36";
 		$this->run();}
-		var $logo = "\n   \e[37m╭━╱▔▔▔▔╲━╮\n   \e[37m╰╱╭\e[31m▅\e[37m╮╭\e[31m▅\e[37m╮╲╯\n    ▏╰┈▅▅┈╯▕          \e[37mTermux\n    \e[37m╲┈\e[31m╰━━╯\e[37m┈╱        made by \e[34mDwhyID \e[37m© 2021\n    ╱╱▔╲╱▔╲╲                ƪ(‾_‾)ʃ\n  \e[37m╭━╮\e[31m▔▏\e[34m┊┊\e[31m▕▔\e[37m╭━╮\n  \e[37m┃\e[34m┊\e[37m┣▔╲\e[34m┊┊\e[37m╱▔┫\e[34m┊\e[37m┃\n  \e[37m╰━━━━\e[37m╲╱\e[37m━━━━╯\n\n \e[37m[\e[34m!\e[37m] Gunakan Dengan Bijak ya :D\n";
+		var $logo = "\n   \e[37m╭━╱▔▔▔▔╲━╮\n   \e[37m╰╱╭\e[31m▅\e[37m╮╭\e[31m▅\e[37m╮╲╯\n    ▏╰┈▅▅┈╯▕          \e[37mSUMBERGO\n    \e[37m╲┈\e[31m╰━━╯\e[37m┈╱        made by \e[34mDwhyID \e[37m© 2021\n    ╱╱▔╲╱▔╲╲                ƪ(‾_‾)ʃ\n  \e[37m╭━╮\e[31m▔▏\e[34m┊┊\e[31m▕▔\e[37m╭━╮\n  \e[37m┃\e[34m┊\e[37m┣▔╲\e[34m┊┊\e[37m╱▔┫\e[34m┊\e[37m┃\n  \e[37m╰━━━━\e[37m╲╱\e[37m━━━━╯\n\n \e[37m[\e[34m!\e[37m] Gunakan Dengan Bijak ya :D\n";
 
 	public function run(){
 		try {
